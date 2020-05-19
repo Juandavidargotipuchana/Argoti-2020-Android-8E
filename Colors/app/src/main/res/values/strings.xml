@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Colors</string>
+    <string name="lbl_Red">Red</string>
+    <string name="lbl_Blue">Green</string>
+    <string name="lbl_Green">Blue</string>
+    <string name="alpha">Alpha</string>
+    <string name="lbl_transparent">Transparent</string>
+    <string name="lbl_semitransparent">Semitransparent</string>
+    <string name="lbl_black">Black</string>
+    <string name="lbl_white">White</string>
+    <string name="lbl_cyan">Cyan</string>
+    <string name="lbl_yellow">Yellow</string>
+    <string name="lbl_magenta">Magenta</string>
+    <string name="lbl_opaque">Opaque</string>
+    <string name="lbl_about_fo">About of</string>
+    <string name="icon_Voice">Voice</string>
+    <string name="icon_semitrans">Semitransparent</string>
+    <string name="lbl_help">Help</string>
+
+
+</resources>

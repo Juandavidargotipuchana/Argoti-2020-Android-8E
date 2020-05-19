@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="btn_txt_City">Ex. Pasto, CO</string>
+    <string name="lbl_current">Current:</string>
+    <string name="lbl_min">Min:</string>
+    <string name="txt_max">Max:</string>
+    <string name="txt_weather">Weather:</string>
+    <string name="txt_goto">go to google maps</string>
+    <string name="txt_SEARCH">Search city</string>
+    <string name="lbl_search">Search city</string>
+</resources>
